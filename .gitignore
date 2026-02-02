@@ -1,0 +1,7 @@
+
+# Large data
+*.tdms
+*.tdms_index
+*.mat
+*.xlsx
+*.zip
